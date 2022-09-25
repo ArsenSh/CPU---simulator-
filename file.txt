@@ -1,0 +1,7 @@
+mov r1 10
+mov r2 10
+label:
+mul r2 400
+cmp r2 10
+je label
+
